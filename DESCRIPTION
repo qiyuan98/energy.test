@@ -2,8 +2,8 @@ Package: energy.test
 Type: Package
 Title: three kinds of hypothesis tests based on energy statistics
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Qiyuan Liu, Yuliang Jiang, Zeli Ying
+Maintainer: Qiyuan Liu<447283629@qq.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
