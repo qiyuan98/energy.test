@@ -4,9 +4,9 @@ Title: three kinds of hypothesis tests based on energy statistics
 Version: 0.1.0
 Author: Qiyuan Liu, Yuliang Jiang, Zeli Ying
 Maintainer: Qiyuan Liu<447283629@qq.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: We implement the basic ideas of energy statistics to solve three kinds of hypothesis test and estimate the empirical powers in some specific examples with comparison to other classical testing method.
+    The three hypothesis tests are Energy normality test, Multivariate test for equal distributions based on multi-sample energy statistics, Energy test of Independence based on distance correlation. Some main functions are listed in the package.
+License: CC0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
