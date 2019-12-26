@@ -6,6 +6,15 @@
 \usage{
 equal_test(dat, size, group, dim, R = 199)
 }
+\arguments{
+\item{dat}{data should be a matrix with each row representing a point}
+
+\item{size}{the sample size}
+
+\item{group}{the number of the groups of the samples}
+
+\item{dim}{the dimension of the point}
+}
 \value{
 p value from the permutation test
 }

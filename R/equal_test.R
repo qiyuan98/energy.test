@@ -1,10 +1,10 @@
 #'multivariate test for equal distribution
 #'
 #'implement a permuation test, using energy method to calculate method for multivariate test for equal distribution
-#'@dat data should be a matrix with each row representing a point
-#'@size the sample size
-#'@group the number of the groups of the samples
-#'@dim the dimension of the point
+#'@param dat data should be a matrix with each row representing a point
+#'@param size the sample size
+#'@param group the number of the groups of the samples
+#'@param dim the dimension of the point
 #'@return p value from the permutation test
 equal_test <- function(dat,size,group,dim,R = 199){
   total.size <- size*group
